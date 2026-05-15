@@ -3,7 +3,7 @@
   "min_version": "2.0.0",
   "exe_url": "https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.1.0/web_app.exe",
   "installer": "https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.1.0/Plan-Assist-Setup-2.1.0.exe",
-  "sha256": "ee6b1bb7f88d5d9aa77ee6df691afe59c577ccc172ae5d250f078301017439fc",
-  "release_notes": "Fix: mom.html buttons, Edge launcher full path, exe-only auto-update, DB path fix, launch counter, Terms & Services button",
+  "sha256": "0c343bc683616b96a375f481849a540b5838b680e78e740423a510d055bd0117",
+  "release_notes": "Add No Commercial Use + Remote Deactivation to EULA, confirmDialog for EOC delete, mom list fix",
   "release_date": "2026-05-15"
 }
