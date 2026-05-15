@@ -1,9 +1,9 @@
-﻿{
+{
   "version": "2.1.0",
   "min_version": "2.0.0",
   "exe_url": "https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.1.0/web_app.exe",
   "installer": "https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.1.0/Plan-Assist-Setup-2.1.0.exe",
-  "sha256": "af2d52795071f01520ca97df9b220fcb7997a047097fc1ba0d4d3f8667acceb0",
-  "release_notes": "exe-only auto-update, DB path fix, launch counter, Terms & Services button",
+  "sha256": "'"$hash"'",
+  "release_notes": "Fix Edge launcher (full path), exe-only auto-update, DB path fix, launch counter, Terms & Services button",
   "release_date": "2026-05-15"
 }
