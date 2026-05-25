@@ -1,9 +1,1 @@
-{
-  "version": "2.1.0",
-  "min_version": "2.0.0",
-  "exe_url": "https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.1.0/web_app.exe",
-  "installer": "https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.1.0/Plan-Assist-Setup-2.1.0.exe",
-  "sha256": "0c343bc683616b96a375f481849a540b5838b680e78e740423a510d055bd0117",
-  "release_notes": "Add No Commercial Use + Remote Deactivation to EULA, confirmDialog for EOC delete, mom list fix",
-  "release_date": "2026-05-15"
-}
+{"version":"2.2.0","min_version":"2.2.0","disabled":false,"disabled_message":"","exe_url":"https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.2.0/web_app.exe","installer":"https://github.com/SilverClover49/EOC-Assist-Releases/releases/download/v2.2.0/Plan-Assist-Setup-2.2.0.exe","sha256":"5388b1b17f4968fc2a1aa1a806f0be940958c2935729ce5f1ed115bcb198eda1","release_notes":"Forced update system + remote kill switch + cache busting","release_date":""}
